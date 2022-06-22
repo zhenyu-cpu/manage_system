@@ -21,5 +21,6 @@ module.exports = {
         'vue/multi-word-component-names':"off"
       }
     }
-  ]
+  ],
+  requireConfigFile:false
 }
